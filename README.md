@@ -22,7 +22,5 @@ wget -r -N -c -np https://physionet.org/files/circor-heart-sound/1.0.3/
 pip install -r requirements.txt
 ```
 
-
-## Usage
-### Training
-### Inference
+## Author
+Dong-hee Lee, Myeong-jun Lee, Jung-hyun Kim of AIFFEL AI Research 6th Alumni
